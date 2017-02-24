@@ -21,8 +21,8 @@ def setup_cookie():
  
 #login bugzilla
 def login_bugzilla():
-    username = 'lming'
-    password = 'Vlmm@666'
+    username = 'xxxxxx'
+    password = 'xxxxxx'
  
     url = r'https://bugzilla.eng.vmware.com/index.cgi'
     headers = {
